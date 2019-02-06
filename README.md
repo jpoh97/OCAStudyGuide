@@ -1,3 +1,3 @@
-# Java Building Blocks
+# OCA Study Guide
 
-### Understanding the Java Class Structure
+This repo contains all the information found for the OCA exam certification. 
